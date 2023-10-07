@@ -1,0 +1,1475 @@
+parent_directory,is_file,name,size_in_bytes
+D:/Games/PlariumPlay,True,gamestorage.gsfn,168
+D:/Games/PlariumPlay,True,PlariumPlay.exe,461144
+D:/Games/PlariumPlay,True,pp_log.txt,57749
+D:/Games/PlariumPlay,True,storage.txt,2520
+D:/Games/PlariumPlay,True,Uninstall.exe,1979480
+D:/Games/PlariumPlay,False,8.1.0-0.0.0,297378581
+D:/Games/PlariumPlay,False,8.1.0-0.0.1,297383813
+D:/Games/PlariumPlay,False,Cache,147338415
+D:/Games/PlariumPlay,False,Downloads,0
+D:/Games/PlariumPlay,False,Icons,44476
+D:/Games/PlariumPlay,False,StandAloneApps,342087839
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,cef.pak,2034826
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,cef_100_percent.pak,222386
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,cef_200_percent.pak,298292
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,cef_extensions.pak,1288411
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,chrome_elf.dll,1126472
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,d3dcompiler_47.dll,4346120
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,devtools_resources.pak,2280965
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,hover.ico,1150
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,icudtl.dat,10412752
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,libcef.dll,144190024
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,libEGL.dll,412744
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,libGLESv2.dll,6773320
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,Microsoft.Toolkit.Uwp.Notifications.dll,143512
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,Microsoft.Toolkit.Uwp.Notifications.pdb,67564
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,Microsoft.Win32.Primitives.dll,21216
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,Microsoft.Xaml.Behaviors.dll,145288
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,Microsoft.Xaml.Behaviors.pdb,53880
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,netstandard.dll,98616
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,Newtonsoft.Json.dll,675752
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,normal.ico,1150
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,PlariumPlay.exe,4968792
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,PlariumPlay.ico,39579
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,PlariumPlayInfo.exe,250200
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,PlariumPlayInfo.exe.config,18072
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,PlariumPlayInfo.pdb,333312
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,plarium_play_process_helper.exe,44376
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,pressed.ico,1150
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,SimpleInjector.dll,437320
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,snapshot_blob.bin,47951
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.AppContext.dll,21176
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Collections.Concurrent.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Collections.dll,21696
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Collections.NonGeneric.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Collections.Specialized.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.ComponentModel.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.ComponentModel.EventBasedAsync.dll,21768
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.ComponentModel.Primitives.dll,21752
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.ComponentModel.TypeConverter.dll,22784
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Console.dll,21160
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Data.Common.dll,154448
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Diagnostics.Contracts.dll,21736
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Diagnostics.Debug.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Diagnostics.FileVersionInfo.dll,21248
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Diagnostics.Process.dll,21728
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Diagnostics.StackTrace.dll,23936
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Diagnostics.TextWriterTraceListener.dll,21280
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Diagnostics.Tools.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Diagnostics.TraceSource.dll,21744
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Diagnostics.Tracing.dll,31608
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Drawing.Primitives.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Dynamic.Runtime.dll,22224
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Globalization.Calendars.dll,21744
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Globalization.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Globalization.Extensions.dll,25992
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.Compression.dll,110944
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.Compression.ZipFile.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.dll,21144
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.FileSystem.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.FileSystem.DriveInfo.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.FileSystem.Primitives.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.FileSystem.Watcher.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.IsolatedStorage.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.MemoryMappedFiles.dll,21216
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.Pipes.dll,21168
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.IO.UnmanagedMemoryStream.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Linq.dll,21152
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Linq.Expressions.dll,22224
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Linq.Parallel.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Linq.Queryable.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.Http.dll,198472
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.NameResolution.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.NetworkInformation.dll,22248
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.Ping.dll,21168
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.Primitives.dll,22216
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.Requests.dll,21184
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.Security.dll,21696
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.Sockets.dll,30544
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.WebHeaderCollection.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.WebSockets.Client.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Net.WebSockets.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.ObjectModel.dll,21696
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Reflection.dll,22200
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Reflection.Extensions.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Reflection.Primitives.dll,21736
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Resources.Reader.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Resources.ResourceManager.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Resources.Writer.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.CompilerServices.VisualC.dll,21784
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.dll,29360
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.Extensions.dll,21720
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.Handles.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.InteropServices.dll,24296
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.InteropServices.RuntimeInformation.dll,28624
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.Numerics.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.Serialization.Formatters.dll,21264
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.Serialization.Json.dll,21240
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.Serialization.Primitives.dll,27048
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Runtime.Serialization.Xml.dll,24816
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Security.Claims.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Security.Cryptography.Algorithms.dll,47016
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Security.Cryptography.Csp.dll,21240
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Security.Cryptography.Encoding.dll,21256
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Security.Cryptography.Primitives.dll,21784
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Security.Cryptography.X509Certificates.dll,22832
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Security.Principal.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Security.SecureString.dll,22392
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Text.Encoding.dll,21696
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Text.Encoding.Extensions.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Text.RegularExpressions.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Threading.dll,22192
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Threading.Overlapped.dll,37752
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Threading.Tasks.dll,22224
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Threading.Tasks.Parallel.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Threading.Thread.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Threading.ThreadPool.dll,21216
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Threading.Timer.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.ValueTuple.dll,78992
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Xml.ReaderWriter.dll,21712
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Xml.XDocument.dll,21696
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Xml.XmlDocument.dll,21712
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Xml.XmlSerializer.dll,21712
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Xml.XPath.dll,21176
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,System.Xml.XPath.XDocument.dll,22904
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,v8_context_snapshot.bin,164745
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,win_10_notification.exe,92504
+D:/Games/PlariumPlay\8.1.0-0.0.0,True,win_under_10_notification.exe,130392
+D:/Games/PlariumPlay\8.1.0-0.0.0,False,dotnet,82756796
+D:/Games/PlariumPlay\8.1.0-0.0.0,False,GPUCache,4788592
+D:/Games/PlariumPlay\8.1.0-0.0.0,False,locales,20993481
+D:/Games/PlariumPlay\8.1.0-0.0.0,False,PlariumPlayClientService,1933559
+D:/Games/PlariumPlay\8.1.0-0.0.0,False,swiftshader,3211408
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-console-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-console-l1-2-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-datetime-l1-1-0.dll,20952
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-debug-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-errorhandling-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-fibers-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-file-l1-1-0.dll,25048
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-file-l1-2-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-file-l2-1-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-handle-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-heap-l1-1-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-interlocked-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-libraryloader-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-localization-l1-2-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-memory-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-namedpipe-l1-1-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-processenvironment-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-processthreads-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-processthreads-l1-1-1.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-profile-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-rtlsupport-l1-1-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-string-l1-1-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-synch-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-synch-l1-2-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-sysinfo-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-timezone-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-core-util-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-conio-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-convert-l1-1-0.dll,25056
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-environment-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-filesystem-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-heap-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-locale-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-math-l1-1-0.dll,29144
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-multibyte-l1-1-0.dll,29136
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-private-l1-1-0.dll,74192
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-process-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-runtime-l1-1-0.dll,25040
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-stdio-l1-1-0.dll,25040
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-string-l1-1-0.dll,25040
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-time-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,api-ms-win-crt-utility-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,clretwrc.dll,304768
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,clrjit.dll,1436304
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Core.deps.json,28141
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Core.dll,401752
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Core.pdb,159484
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Core.Sdk.dll,14168
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Core.Sdk.pdb,10096
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,coreclr.dll,5121168
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,createdump.exe,57552
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,dbgshim.dll,140432
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,discord_game_sdk.bundle,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,discord_game_sdk.dll,3891512
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,discord_game_sdk.dll.lib,2352
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,discord_game_sdk.dylib,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,discord_game_sdk.so,7122200
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,discord_game_sdk_x86.dll,3154744
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,discord_game_sdk_x86.dll.lib,2358
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Fleck.dll,53320
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,hostfxr.dll,374936
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,hostpolicy.dll,391832
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,libdiscord_game_sdk.dylib,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Microsoft.CSharp.dll,351816
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Microsoft.DiaSymReader.Native.amd64.dll,1813896
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Microsoft.Win32.Primitives.dll,16968
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Microsoft.Win32.Registry.dll,27208
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,mscordaccore.dll,1321864
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,mscordaccore_amd64_amd64_6.0.422.16404.dll,1320824
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,mscordbi.dll,1267320
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,mscorlib.dll,58520
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,mscorrc.dll,147088
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,msquic.dll,499584
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,netstandard.dll,26696
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,Newtonsoft.Json.dll,669096
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,SimpleInjector.dll,396872
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.CodeDom.dll,181832
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Collections.Concurrent.dll,47688
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Collections.dll,44104
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Collections.Immutable.dll,32840
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Collections.NonGeneric.dll,33352
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Collections.Specialized.dll,31816
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.ComponentModel.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.ComponentModel.EventBasedAsync.dll,18504
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.ComponentModel.Primitives.dll,24136
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.ComponentModel.TypeConverter.dll,152136
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Console.dll,40520
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Data.Common.dll,624712
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Diagnostics.DiagnosticSource.dll,69704
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Diagnostics.Process.dll,83528
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Diagnostics.StackTrace.dll,17480
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Diagnostics.TraceSource.dll,29256
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Drawing.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Drawing.Primitives.dll,46664
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.IO.Compression.Brotli.dll,32840
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.IO.Compression.dll,96840
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.IO.Compression.Native.dll,822936
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.IO.Compression.ZipFile.dll,20040
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.IO.FileSystem.DriveInfo.dll,23624
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.IO.MemoryMappedFiles.dll,31304
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Linq.dll,87624
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Linq.Expressions.dll,511048
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Management.dll,294984
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Memory.dll,39496
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.Http.dll,563272
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.NameResolution.dll,40008
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.NetworkInformation.dll,44104
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.Primitives.dll,76872
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.Quic.dll,102984
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.Requests.dll,110664
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.Security.dll,189000
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.ServicePoint.dll,16968
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.Sockets.dll,118856
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.WebClient.dll,32840
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Net.WebHeaderCollection.dll,20552
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.ObjectModel.dll,35912
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Private.CoreLib.dll,2558536
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Private.Uri.dll,85064
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Private.Xml.dll,1548872
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Private.Xml.Linq.dll,59464
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Reflection.Metadata.dll,115784
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Resources.ResourceManager.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Runtime.CompilerServices.Unsafe.dll,13384
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Runtime.dll,21336
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Runtime.Extensions.dll,14408
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Runtime.InteropServices.dll,16968
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Runtime.InteropServices.RuntimeInformation.dll,16968
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Runtime.Numerics.dll,56392
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Runtime.Serialization.Formatters.dll,26696
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Runtime.Serialization.Primitives.dll,14920
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Security.Claims.dll,21576
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Security.Cryptography.Algorithms.dll,60488
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Security.Cryptography.Cng.dll,51272
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Security.Cryptography.Csp.dll,36424
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Security.Cryptography.Encoding.dll,35400
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Security.Cryptography.Primitives.dll,44104
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Security.Cryptography.X509Certificates.dll,113224
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Security.Principal.Windows.dll,50760
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Text.Encoding.Extensions.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Text.Encodings.Web.dll,42056
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Text.Json.dll,340040
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Text.RegularExpressions.dll,173128
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Threading.Channels.dll,40008
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Threading.dll,20552
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Threading.Tasks.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Threading.Thread.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Threading.ThreadPool.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,System.Web.HttpUtility.dll,17992
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,True,ucrtbase.dll,1122768
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet,False,win-x64,27191205
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,Core.deps.json,42539
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,Core.dll,401752
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,Core.pdb,159484
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,Core.Sdk.dll,14168
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,Core.Sdk.pdb,10096
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,discord_game_sdk.bundle,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,discord_game_sdk.dll,3891512
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,discord_game_sdk.dll.lib,2352
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,discord_game_sdk.dylib,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,discord_game_sdk.so,7122200
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,discord_game_sdk_x86.dll,3154744
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,discord_game_sdk_x86.dll.lib,2358
+D:/Games/PlariumPlay\8.1.0-0.0.0\dotnet\win-x64,True,libdiscord_game_sdk.dylib,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.0\GPUCache,True,data_0,45056
+D:/Games/PlariumPlay\8.1.0-0.0.0\GPUCache,True,data_1,270336
+D:/Games/PlariumPlay\8.1.0-0.0.0\GPUCache,True,data_2,8192
+D:/Games/PlariumPlay\8.1.0-0.0.0\GPUCache,True,data_3,4202496
+D:/Games/PlariumPlay\8.1.0-0.0.0\GPUCache,True,index,262512
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,am.pak,444079
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,ar.pak,469827
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,bg.pak,505282
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,bn.pak,658618
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,ca.pak,312334
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,cs.pak,319299
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,da.pak,287900
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,de.pak,310366
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,el.pak,553567
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,en-GB.pak,253532
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,en-US.pak,256379
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,es-419.pak,306363
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,es.pak,309268
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,et.pak,276989
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,fa.pak,446714
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,fi.pak,285082
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,fil.pak,318109
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,fr.pak,337294
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,gu.pak,629681
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,he.pak,390944
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,hi.pak,653751
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,hr.pak,306387
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,hu.pak,329271
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,id.pak,274507
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,it.pak,301427
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,ja.pak,373948
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,kn.pak,733455
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,ko.pak,313442
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,lt.pak,330592
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,lv.pak,328259
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,ml.pak,769891
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,mr.pak,615779
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,ms.pak,286331
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,nb.pak,280459
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,nl.pak,291757
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,pl.pak,319603
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,pt-BR.pak,302221
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,pt-PT.pak,306572
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,ro.pak,314280
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,ru.pak,505287
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,sk.pak,324652
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,sl.pak,310929
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,sr.pak,477453
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,sv.pak,282058
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,sw.pak,289557
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,ta.pak,742549
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,te.pak,693974
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,th.pak,587943
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,tr.pak,300231
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,uk.pak,503364
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,vi.pak,351449
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,zh-CN.pak,260769
+D:/Games/PlariumPlay\8.1.0-0.0.0\locales,True,zh-TW.pak,259707
+D:/Games/PlariumPlay\8.1.0-0.0.0\PlariumPlayClientService,True,Newtonsoft.Json.dll,675752
+D:/Games/PlariumPlay\8.1.0-0.0.0\PlariumPlayClientService,True,Newtonsoft.Json.xml,701978
+D:/Games/PlariumPlay\8.1.0-0.0.0\PlariumPlayClientService,True,PlariumPlayClientService.exe,102232
+D:/Games/PlariumPlay\8.1.0-0.0.0\PlariumPlayClientService,True,PlariumPlayClientService.exe.config,186
+D:/Games/PlariumPlay\8.1.0-0.0.0\PlariumPlayClientService,True,PlariumPlayClientService.pdb,175616
+D:/Games/PlariumPlay\8.1.0-0.0.0\PlariumPlayClientService,True,Topshelf.dll,197704
+D:/Games/PlariumPlay\8.1.0-0.0.0\PlariumPlayClientService,True,Topshelf.xml,80091
+D:/Games/PlariumPlay\8.1.0-0.0.0\swiftshader,True,libEGL.dll,431688
+D:/Games/PlariumPlay\8.1.0-0.0.0\swiftshader,True,libGLESv2.dll,2779720
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,cef.pak,2034826
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,cef_100_percent.pak,222386
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,cef_200_percent.pak,298292
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,cef_extensions.pak,1288411
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,chrome_elf.dll,1126472
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,d3dcompiler_47.dll,4346120
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,devtools_resources.pak,2280965
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,hover.ico,1150
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,icudtl.dat,10412752
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,libcef.dll,144190024
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,libEGL.dll,412744
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,libGLESv2.dll,6773320
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,Microsoft.Toolkit.Uwp.Notifications.dll,143512
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,Microsoft.Toolkit.Uwp.Notifications.pdb,67564
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,Microsoft.Win32.Primitives.dll,21216
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,Microsoft.Xaml.Behaviors.dll,145288
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,Microsoft.Xaml.Behaviors.pdb,53880
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,netstandard.dll,98616
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,Newtonsoft.Json.dll,675752
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,normal.ico,1150
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,PlariumPlay.exe,4969304
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,PlariumPlay.ico,39579
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,PlariumPlayInfo.exe,250200
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,PlariumPlayInfo.exe.config,18072
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,PlariumPlayInfo.pdb,333312
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,plarium_play_process_helper.exe,44376
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,pressed.ico,1150
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,SimpleInjector.dll,437320
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,snapshot_blob.bin,47951
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.AppContext.dll,21176
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Collections.Concurrent.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Collections.dll,21696
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Collections.NonGeneric.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Collections.Specialized.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.ComponentModel.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.ComponentModel.EventBasedAsync.dll,21768
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.ComponentModel.Primitives.dll,21752
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.ComponentModel.TypeConverter.dll,22784
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Console.dll,21160
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Data.Common.dll,154448
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Diagnostics.Contracts.dll,21736
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Diagnostics.Debug.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Diagnostics.FileVersionInfo.dll,21248
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Diagnostics.Process.dll,21728
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Diagnostics.StackTrace.dll,23936
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Diagnostics.TextWriterTraceListener.dll,21280
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Diagnostics.Tools.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Diagnostics.TraceSource.dll,21744
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Diagnostics.Tracing.dll,31608
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Drawing.Primitives.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Dynamic.Runtime.dll,22224
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Globalization.Calendars.dll,21744
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Globalization.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Globalization.Extensions.dll,25992
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.Compression.dll,110944
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.Compression.ZipFile.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.dll,21144
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.FileSystem.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.FileSystem.DriveInfo.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.FileSystem.Primitives.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.FileSystem.Watcher.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.IsolatedStorage.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.MemoryMappedFiles.dll,21216
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.Pipes.dll,21168
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.IO.UnmanagedMemoryStream.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Linq.dll,21152
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Linq.Expressions.dll,22224
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Linq.Parallel.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Linq.Queryable.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.Http.dll,198472
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.NameResolution.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.NetworkInformation.dll,22248
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.Ping.dll,21168
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.Primitives.dll,22216
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.Requests.dll,21184
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.Security.dll,21696
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.Sockets.dll,30544
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.WebHeaderCollection.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.WebSockets.Client.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Net.WebSockets.dll,21192
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.ObjectModel.dll,21696
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Reflection.dll,22200
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Reflection.Extensions.dll,21224
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Reflection.Primitives.dll,21736
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Resources.Reader.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Resources.ResourceManager.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Resources.Writer.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.CompilerServices.VisualC.dll,21784
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.dll,29360
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.Extensions.dll,21720
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.Handles.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.InteropServices.dll,24296
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.InteropServices.RuntimeInformation.dll,28624
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.Numerics.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.Serialization.Formatters.dll,21264
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.Serialization.Json.dll,21240
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.Serialization.Primitives.dll,27048
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Runtime.Serialization.Xml.dll,24816
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Security.Claims.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Security.Cryptography.Algorithms.dll,47016
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Security.Cryptography.Csp.dll,21240
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Security.Cryptography.Encoding.dll,21256
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Security.Cryptography.Primitives.dll,21784
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Security.Cryptography.X509Certificates.dll,22832
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Security.Principal.dll,21208
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Security.SecureString.dll,22392
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Text.Encoding.dll,21696
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Text.Encoding.Extensions.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Text.RegularExpressions.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Threading.dll,22192
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Threading.Overlapped.dll,37752
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Threading.Tasks.dll,22224
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Threading.Tasks.Parallel.dll,21232
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Threading.Thread.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Threading.ThreadPool.dll,21216
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Threading.Timer.dll,21200
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.ValueTuple.dll,78992
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Xml.ReaderWriter.dll,21712
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Xml.XDocument.dll,21696
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Xml.XmlDocument.dll,21712
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Xml.XmlSerializer.dll,21712
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Xml.XPath.dll,21176
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,System.Xml.XPath.XDocument.dll,22904
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,v8_context_snapshot.bin,164745
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,win_10_notification.exe,92504
+D:/Games/PlariumPlay\8.1.0-0.0.1,True,win_under_10_notification.exe,130392
+D:/Games/PlariumPlay\8.1.0-0.0.1,False,dotnet,82761516
+D:/Games/PlariumPlay\8.1.0-0.0.1,False,GPUCache,4788592
+D:/Games/PlariumPlay\8.1.0-0.0.1,False,locales,20993481
+D:/Games/PlariumPlay\8.1.0-0.0.1,False,PlariumPlayClientService,1933559
+D:/Games/PlariumPlay\8.1.0-0.0.1,False,swiftshader,3211408
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-console-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-console-l1-2-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-datetime-l1-1-0.dll,20952
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-debug-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-errorhandling-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-fibers-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-file-l1-1-0.dll,25048
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-file-l1-2-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-file-l2-1-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-handle-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-heap-l1-1-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-interlocked-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-libraryloader-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-localization-l1-2-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-memory-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-namedpipe-l1-1-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-processenvironment-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-processthreads-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-processthreads-l1-1-1.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-profile-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-rtlsupport-l1-1-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-string-l1-1-0.dll,20960
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-synch-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-synch-l1-2-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-sysinfo-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-timezone-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-core-util-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-conio-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-convert-l1-1-0.dll,25056
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-environment-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-filesystem-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-heap-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-locale-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-math-l1-1-0.dll,29144
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-multibyte-l1-1-0.dll,29136
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-private-l1-1-0.dll,74192
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-process-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-runtime-l1-1-0.dll,25040
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-stdio-l1-1-0.dll,25040
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-string-l1-1-0.dll,25040
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-time-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,api-ms-win-crt-utility-l1-1-0.dll,20944
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,clretwrc.dll,304768
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,clrjit.dll,1436304
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Core.deps.json,28141
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Core.dll,403800
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Core.pdb,159796
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Core.Sdk.dll,14168
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Core.Sdk.pdb,10096
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,coreclr.dll,5121168
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,createdump.exe,57552
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,dbgshim.dll,140432
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,discord_game_sdk.bundle,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,discord_game_sdk.dll,3891512
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,discord_game_sdk.dll.lib,2352
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,discord_game_sdk.dylib,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,discord_game_sdk.so,7122200
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,discord_game_sdk_x86.dll,3154744
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,discord_game_sdk_x86.dll.lib,2358
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Fleck.dll,53320
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,hostfxr.dll,374936
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,hostpolicy.dll,391832
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,libdiscord_game_sdk.dylib,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Microsoft.CSharp.dll,351816
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Microsoft.DiaSymReader.Native.amd64.dll,1813896
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Microsoft.Win32.Primitives.dll,16968
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Microsoft.Win32.Registry.dll,27208
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,mscordaccore.dll,1321864
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,mscordaccore_amd64_amd64_6.0.422.16404.dll,1320824
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,mscordbi.dll,1267320
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,mscorlib.dll,58520
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,mscorrc.dll,147088
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,msquic.dll,499584
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,netstandard.dll,26696
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,Newtonsoft.Json.dll,669096
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,SimpleInjector.dll,396872
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.CodeDom.dll,181832
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Collections.Concurrent.dll,47688
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Collections.dll,44104
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Collections.Immutable.dll,32840
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Collections.NonGeneric.dll,33352
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Collections.Specialized.dll,31816
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.ComponentModel.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.ComponentModel.EventBasedAsync.dll,18504
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.ComponentModel.Primitives.dll,24136
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.ComponentModel.TypeConverter.dll,152136
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Console.dll,40520
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Data.Common.dll,624712
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Diagnostics.DiagnosticSource.dll,69704
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Diagnostics.Process.dll,83528
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Diagnostics.StackTrace.dll,17480
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Diagnostics.TraceSource.dll,29256
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Drawing.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Drawing.Primitives.dll,46664
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.IO.Compression.Brotli.dll,32840
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.IO.Compression.dll,96840
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.IO.Compression.Native.dll,822936
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.IO.Compression.ZipFile.dll,20040
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.IO.FileSystem.DriveInfo.dll,23624
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.IO.MemoryMappedFiles.dll,31304
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Linq.dll,87624
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Linq.Expressions.dll,511048
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Management.dll,294984
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Memory.dll,39496
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.Http.dll,563272
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.NameResolution.dll,40008
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.NetworkInformation.dll,44104
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.Primitives.dll,76872
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.Quic.dll,102984
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.Requests.dll,110664
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.Security.dll,189000
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.ServicePoint.dll,16968
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.Sockets.dll,118856
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.WebClient.dll,32840
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Net.WebHeaderCollection.dll,20552
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.ObjectModel.dll,35912
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Private.CoreLib.dll,2558536
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Private.Uri.dll,85064
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Private.Xml.dll,1548872
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Private.Xml.Linq.dll,59464
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Reflection.Metadata.dll,115784
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Resources.ResourceManager.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Runtime.CompilerServices.Unsafe.dll,13384
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Runtime.dll,21336
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Runtime.Extensions.dll,14408
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Runtime.InteropServices.dll,16968
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Runtime.InteropServices.RuntimeInformation.dll,16968
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Runtime.Numerics.dll,56392
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Runtime.Serialization.Formatters.dll,26696
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Runtime.Serialization.Primitives.dll,14920
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Security.Claims.dll,21576
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Security.Cryptography.Algorithms.dll,60488
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Security.Cryptography.Cng.dll,51272
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Security.Cryptography.Csp.dll,36424
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Security.Cryptography.Encoding.dll,35400
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Security.Cryptography.Primitives.dll,44104
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Security.Cryptography.X509Certificates.dll,113224
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Security.Principal.Windows.dll,50760
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Text.Encoding.Extensions.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Text.Encodings.Web.dll,42056
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Text.Json.dll,340040
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Text.RegularExpressions.dll,173128
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Threading.Channels.dll,40008
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Threading.dll,20552
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Threading.Tasks.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Threading.Thread.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Threading.ThreadPool.dll,13896
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,System.Web.HttpUtility.dll,17992
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,True,ucrtbase.dll,1122768
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet,False,win-x64,27193565
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,Core.deps.json,42539
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,Core.dll,403800
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,Core.pdb,159796
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,Core.Sdk.dll,14168
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,Core.Sdk.pdb,10096
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,discord_game_sdk.bundle,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,discord_game_sdk.dll,3891512
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,discord_game_sdk.dll.lib,2352
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,discord_game_sdk.dylib,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,discord_game_sdk.so,7122200
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,discord_game_sdk_x86.dll,3154744
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,discord_game_sdk_x86.dll.lib,2358
+D:/Games/PlariumPlay\8.1.0-0.0.1\dotnet\win-x64,True,libdiscord_game_sdk.dylib,4130000
+D:/Games/PlariumPlay\8.1.0-0.0.1\GPUCache,True,data_0,45056
+D:/Games/PlariumPlay\8.1.0-0.0.1\GPUCache,True,data_1,270336
+D:/Games/PlariumPlay\8.1.0-0.0.1\GPUCache,True,data_2,8192
+D:/Games/PlariumPlay\8.1.0-0.0.1\GPUCache,True,data_3,4202496
+D:/Games/PlariumPlay\8.1.0-0.0.1\GPUCache,True,index,262512
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,am.pak,444079
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,ar.pak,469827
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,bg.pak,505282
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,bn.pak,658618
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,ca.pak,312334
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,cs.pak,319299
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,da.pak,287900
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,de.pak,310366
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,el.pak,553567
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,en-GB.pak,253532
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,en-US.pak,256379
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,es-419.pak,306363
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,es.pak,309268
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,et.pak,276989
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,fa.pak,446714
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,fi.pak,285082
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,fil.pak,318109
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,fr.pak,337294
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,gu.pak,629681
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,he.pak,390944
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,hi.pak,653751
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,hr.pak,306387
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,hu.pak,329271
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,id.pak,274507
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,it.pak,301427
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,ja.pak,373948
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,kn.pak,733455
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,ko.pak,313442
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,lt.pak,330592
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,lv.pak,328259
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,ml.pak,769891
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,mr.pak,615779
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,ms.pak,286331
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,nb.pak,280459
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,nl.pak,291757
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,pl.pak,319603
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,pt-BR.pak,302221
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,pt-PT.pak,306572
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,ro.pak,314280
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,ru.pak,505287
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,sk.pak,324652
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,sl.pak,310929
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,sr.pak,477453
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,sv.pak,282058
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,sw.pak,289557
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,ta.pak,742549
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,te.pak,693974
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,th.pak,587943
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,tr.pak,300231
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,uk.pak,503364
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,vi.pak,351449
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,zh-CN.pak,260769
+D:/Games/PlariumPlay\8.1.0-0.0.1\locales,True,zh-TW.pak,259707
+D:/Games/PlariumPlay\8.1.0-0.0.1\PlariumPlayClientService,True,Newtonsoft.Json.dll,675752
+D:/Games/PlariumPlay\8.1.0-0.0.1\PlariumPlayClientService,True,Newtonsoft.Json.xml,701978
+D:/Games/PlariumPlay\8.1.0-0.0.1\PlariumPlayClientService,True,PlariumPlayClientService.exe,102232
+D:/Games/PlariumPlay\8.1.0-0.0.1\PlariumPlayClientService,True,PlariumPlayClientService.exe.config,186
+D:/Games/PlariumPlay\8.1.0-0.0.1\PlariumPlayClientService,True,PlariumPlayClientService.pdb,175616
+D:/Games/PlariumPlay\8.1.0-0.0.1\PlariumPlayClientService,True,Topshelf.dll,197704
+D:/Games/PlariumPlay\8.1.0-0.0.1\PlariumPlayClientService,True,Topshelf.xml,80091
+D:/Games/PlariumPlay\8.1.0-0.0.1\swiftshader,True,libEGL.dll,431688
+D:/Games/PlariumPlay\8.1.0-0.0.1\swiftshader,True,libGLESv2.dll,2779720
+D:/Games/PlariumPlay\Cache,True,000003.log,0
+D:/Games/PlariumPlay\Cache,True,Cookies,20480
+D:/Games/PlariumPlay\Cache,True,Cookies-journal,0
+D:/Games/PlariumPlay\Cache,True,CURRENT,16
+D:/Games/PlariumPlay\Cache,True,LocalPrefs.json,479
+D:/Games/PlariumPlay\Cache,True,LOCK,0
+D:/Games/PlariumPlay\Cache,True,LOG,220
+D:/Games/PlariumPlay\Cache,True,LOG.old,220
+D:/Games/PlariumPlay\Cache,True,MANIFEST-000001,41
+D:/Games/PlariumPlay\Cache,True,Network Persistent State,3270
+D:/Games/PlariumPlay\Cache,True,QuotaManager,53248
+D:/Games/PlariumPlay\Cache,True,QuotaManager-journal,0
+D:/Games/PlariumPlay\Cache,True,Reporting and NEL,36864
+D:/Games/PlariumPlay\Cache,True,Reporting and NEL-journal,0
+D:/Games/PlariumPlay\Cache,True,TransportSecurity,1205
+D:/Games/PlariumPlay\Cache,True,Visited Links,131072
+D:/Games/PlariumPlay\Cache,False,blob_storage,0
+D:/Games/PlariumPlay\Cache,False,Cache,84251243
+D:/Games/PlariumPlay\Cache,False,Code Cache,13276161
+D:/Games/PlariumPlay\Cache,False,databases,28672
+D:/Games/PlariumPlay\Cache,False,IndexedDB,29646468
+D:/Games/PlariumPlay\Cache,False,Local Storage,29475
+D:/Games/PlariumPlay\Cache,False,Service Worker,19855256
+D:/Games/PlariumPlay\Cache,False,Session Storage,3606
+D:/Games/PlariumPlay\Cache,False,shared_proto_db,203
+D:/Games/PlariumPlay\Cache,False,VideoDecodeStats,216
+D:/Games/PlariumPlay\Cache\blob_storage,False,1b48478c-8d8e-4fa9-bba1-7fec067cb8eb,0
+D:/Games/PlariumPlay\Cache\Cache,True,data_0,45056
+D:/Games/PlariumPlay\Cache\Cache,True,data_1,270336
+D:/Games/PlariumPlay\Cache\Cache,True,data_2,1056768
+D:/Games/PlariumPlay\Cache\Cache,True,data_3,4202496
+D:/Games/PlariumPlay\Cache\Cache,True,f_000002,26358
+D:/Games/PlariumPlay\Cache\Cache,True,f_000003,5416943
+D:/Games/PlariumPlay\Cache\Cache,True,f_000009,233207
+D:/Games/PlariumPlay\Cache\Cache,True,f_00000c,71412
+D:/Games/PlariumPlay\Cache\Cache,True,f_00000d,230110
+D:/Games/PlariumPlay\Cache\Cache,True,f_00000e,116384
+D:/Games/PlariumPlay\Cache\Cache,True,f_00000f,83319
+D:/Games/PlariumPlay\Cache\Cache,True,f_000010,181314
+D:/Games/PlariumPlay\Cache\Cache,True,f_000011,78483
+D:/Games/PlariumPlay\Cache\Cache,True,f_000012,73285
+D:/Games/PlariumPlay\Cache\Cache,True,f_000013,123328
+D:/Games/PlariumPlay\Cache\Cache,True,f_000014,138199
+D:/Games/PlariumPlay\Cache\Cache,True,f_000015,40086
+D:/Games/PlariumPlay\Cache\Cache,True,f_000016,37198
+D:/Games/PlariumPlay\Cache\Cache,True,f_000017,24668
+D:/Games/PlariumPlay\Cache\Cache,True,f_000018,17352
+D:/Games/PlariumPlay\Cache\Cache,True,f_000019,18998
+D:/Games/PlariumPlay\Cache\Cache,True,f_00001a,22084
+D:/Games/PlariumPlay\Cache\Cache,True,f_00001b,42755
+D:/Games/PlariumPlay\Cache\Cache,True,f_00001c,22849
+D:/Games/PlariumPlay\Cache\Cache,True,f_00001d,58986
+D:/Games/PlariumPlay\Cache\Cache,True,f_00001e,69615
+D:/Games/PlariumPlay\Cache\Cache,True,f_00001f,68949
+D:/Games/PlariumPlay\Cache\Cache,True,f_000020,181875
+D:/Games/PlariumPlay\Cache\Cache,True,f_000021,57796
+D:/Games/PlariumPlay\Cache\Cache,True,f_000022,50404
+D:/Games/PlariumPlay\Cache\Cache,True,f_000023,93662
+D:/Games/PlariumPlay\Cache\Cache,True,f_000024,46502
+D:/Games/PlariumPlay\Cache\Cache,True,f_000025,41917
+D:/Games/PlariumPlay\Cache\Cache,True,f_000026,37963
+D:/Games/PlariumPlay\Cache\Cache,True,f_000027,104366
+D:/Games/PlariumPlay\Cache\Cache,True,f_000028,168297
+D:/Games/PlariumPlay\Cache\Cache,True,f_000029,131050
+D:/Games/PlariumPlay\Cache\Cache,True,f_00002a,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_00002b,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_00002c,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_00002d,204307
+D:/Games/PlariumPlay\Cache\Cache,True,f_00002e,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_00002f,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_000030,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_000031,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_000032,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_000033,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_000034,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_000035,868551
+D:/Games/PlariumPlay\Cache\Cache,True,f_000036,38273
+D:/Games/PlariumPlay\Cache\Cache,True,f_000037,17964
+D:/Games/PlariumPlay\Cache\Cache,True,f_000038,1289448
+D:/Games/PlariumPlay\Cache\Cache,True,f_000039,171608
+D:/Games/PlariumPlay\Cache\Cache,True,f_00003a,51017
+D:/Games/PlariumPlay\Cache\Cache,True,f_00003b,21568
+D:/Games/PlariumPlay\Cache\Cache,True,f_00003d,108351
+D:/Games/PlariumPlay\Cache\Cache,True,f_00003e,68713
+D:/Games/PlariumPlay\Cache\Cache,True,f_00003f,141638
+D:/Games/PlariumPlay\Cache\Cache,True,f_000040,89985
+D:/Games/PlariumPlay\Cache\Cache,True,f_000041,138023
+D:/Games/PlariumPlay\Cache\Cache,True,f_000042,100334
+D:/Games/PlariumPlay\Cache\Cache,True,f_000043,87918
+D:/Games/PlariumPlay\Cache\Cache,True,f_000044,83405
+D:/Games/PlariumPlay\Cache\Cache,True,f_000045,49814
+D:/Games/PlariumPlay\Cache\Cache,True,f_000046,103954
+D:/Games/PlariumPlay\Cache\Cache,True,f_00004d,35468
+D:/Games/PlariumPlay\Cache\Cache,True,f_000052,73310
+D:/Games/PlariumPlay\Cache\Cache,True,f_000053,68783
+D:/Games/PlariumPlay\Cache\Cache,True,f_000054,23165
+D:/Games/PlariumPlay\Cache\Cache,True,f_00005b,233207
+D:/Games/PlariumPlay\Cache\Cache,True,f_00005e,72063
+D:/Games/PlariumPlay\Cache\Cache,True,f_00005f,425076
+D:/Games/PlariumPlay\Cache\Cache,True,f_000065,233207
+D:/Games/PlariumPlay\Cache\Cache,True,f_000069,19283
+D:/Games/PlariumPlay\Cache\Cache,True,f_00006a,42052
+D:/Games/PlariumPlay\Cache\Cache,True,f_00006b,25691
+D:/Games/PlariumPlay\Cache\Cache,True,f_000071,233207
+D:/Games/PlariumPlay\Cache\Cache,True,f_000074,26012
+D:/Games/PlariumPlay\Cache\Cache,True,f_000075,72858
+D:/Games/PlariumPlay\Cache\Cache,True,f_00007b,233207
+D:/Games/PlariumPlay\Cache\Cache,True,f_00007e,87893
+D:/Games/PlariumPlay\Cache\Cache,True,f_00007f,77111
+D:/Games/PlariumPlay\Cache\Cache,True,f_000080,1034897
+D:/Games/PlariumPlay\Cache\Cache,True,f_000085,20039
+D:/Games/PlariumPlay\Cache\Cache,True,f_000087,233207
+D:/Games/PlariumPlay\Cache\Cache,True,f_00008b,18401
+D:/Games/PlariumPlay\Cache\Cache,True,f_00008c,406106
+D:/Games/PlariumPlay\Cache\Cache,True,f_00008d,305429
+D:/Games/PlariumPlay\Cache\Cache,True,f_000093,233207
+D:/Games/PlariumPlay\Cache\Cache,True,f_000096,225978
+D:/Games/PlariumPlay\Cache\Cache,True,f_000097,128439
+D:/Games/PlariumPlay\Cache\Cache,True,f_000098,26359
+D:/Games/PlariumPlay\Cache\Cache,True,f_000099,5416959
+D:/Games/PlariumPlay\Cache\Cache,True,f_00009d,233207
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000a2,853273
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000a6,233207
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000ab,128533
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000ac,5391492
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000af,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000b3,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000c6,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000ce,38955
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000cf,88358
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000d0,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000d6,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000da,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000df,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000e2,9834577
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000e4,86897
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000e5,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000ea,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000f3,86897
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000f4,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000f9,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000fe,88359
+D:/Games/PlariumPlay\Cache\Cache,True,f_0000ff,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_000104,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_000109,88358
+D:/Games/PlariumPlay\Cache\Cache,True,f_00010a,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_00010f,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_000114,88358
+D:/Games/PlariumPlay\Cache\Cache,True,f_000115,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_00011a,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_000122,86898
+D:/Games/PlariumPlay\Cache\Cache,True,f_000123,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_000128,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_00012d,88455
+D:/Games/PlariumPlay\Cache\Cache,True,f_00012e,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_000133,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_000137,88459
+D:/Games/PlariumPlay\Cache\Cache,True,f_000138,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_00013d,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_000140,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_000141,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_000142,1048576
+D:/Games/PlariumPlay\Cache\Cache,True,f_000143,1015808
+D:/Games/PlariumPlay\Cache\Cache,True,f_000144,88439
+D:/Games/PlariumPlay\Cache\Cache,True,f_000146,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_00014b,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_00014e,785631
+D:/Games/PlariumPlay\Cache\Cache,True,f_00014f,289976
+D:/Games/PlariumPlay\Cache\Cache,True,f_000151,86981
+D:/Games/PlariumPlay\Cache\Cache,True,f_000152,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_000153,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_000155,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_000158,88442
+D:/Games/PlariumPlay\Cache\Cache,True,f_000159,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_00015e,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_000162,88442
+D:/Games/PlariumPlay\Cache\Cache,True,f_000163,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_000168,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_00016b,481868
+D:/Games/PlariumPlay\Cache\Cache,True,f_00016c,65536
+D:/Games/PlariumPlay\Cache\Cache,True,f_00016e,88447
+D:/Games/PlariumPlay\Cache\Cache,True,f_00016f,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_000171,88477
+D:/Games/PlariumPlay\Cache\Cache,True,f_000172,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_000177,66813
+D:/Games/PlariumPlay\Cache\Cache,True,f_000178,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_00017c,853290
+D:/Games/PlariumPlay\Cache\Cache,True,f_00017e,45207
+D:/Games/PlariumPlay\Cache\Cache,True,f_000180,76397
+D:/Games/PlariumPlay\Cache\Cache,True,f_000181,233202
+D:/Games/PlariumPlay\Cache\Cache,True,f_000182,48432
+D:/Games/PlariumPlay\Cache\Cache,True,f_000183,58039
+D:/Games/PlariumPlay\Cache\Cache,True,f_000184,326311
+D:/Games/PlariumPlay\Cache\Cache,True,f_000185,51362
+D:/Games/PlariumPlay\Cache\Cache,True,f_000187,136917
+D:/Games/PlariumPlay\Cache\Cache,True,f_000188,853290
+D:/Games/PlariumPlay\Cache\Cache,True,index,524656
+D:/Games/PlariumPlay\Cache\Code Cache,False,js,13276089
+D:/Games/PlariumPlay\Cache\Code Cache,False,wasm,72
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,01f8c1688602d7d5_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,03865a43ad927984_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,050ad13fa940285a_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,057f2170c6bea4be_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,05db646d2f35902e_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,0633b492170745f5_0,243
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,0c91d2e2a893162f_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,1056e8cc0027cf42_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,110718625ffce525_0,235
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,124ec4ed680d5f75_0,84144
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,134ca6066080b78d_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,15a7373937cac25b_0,243
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,1a548c35b2b71bf0_0,243
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,1bc19c53d70df90a_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,1d3e81569488cdfe_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,1f0a7b49423446ff_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,1f60dbf6a931d97c_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,255350a20c6d6a9e_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,281f1cde4ff75f01_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,28abeaf6c3657357_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,2f7b4cfbaa192054_0,192
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,3a31f0c282326700_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,3abe2c1c47cd2c2e_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,3f82f681c082dc8e_0,1866
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,43c6038ffc0077de_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,449da81204886a25_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,4564a7bb11c7a032_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,495695a18d14994f_0,266728
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,4b90dfb835c2fbde_0,264080
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,4fff8910b834c143_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,5275f830babe5f6f_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,572a2c937f8f66ec_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,639b8bad07cf76ce_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,65b4ced48ce84a72_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,660f9e86ffc3f09a_0,242
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,68b143ab68e5bc88_0,84144
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,68b82d2f5af00437_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,6b4c766302d3fb31_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,6c4d1e5bbccd8dac_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,6c83b92ede6cfe11_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,75b103f709b7fb6a_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,7845908ebf17f537_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,7a4854ce31724de1_0,243
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,7b095b6857387cab_0,235
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,878ed9fa32a974db_0,266440
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,88e10ffc029d2929_0,87432
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,8f0c0b8c6a79f3a4_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,922a7988b5b23e20_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,98c36fb5fa7c261a_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,9c7a3837ea176851_0,84960
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,9da97df4e48d833b_0,84144
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,9e4d34ec776fdcd7_0,84960
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,9fa9e0a455c28cbb_0,266728
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,a3ff29c93459a1e0_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,aa1aeef07122f669_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,adf15062d1f84033_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,b145fec6d3d7dba6_0,90096
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,b326631164d8bb6e_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,b4997aa2a6dd082e_0,317
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,b8046b07df6e1238_0,5345472
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,b8e705c572bee99c_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,b944e14e25e19378_0,84960
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,c2342be12b363993_0,279
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,c48045951748ed80_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,c6acca0234b5bedc_0,188
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,c9e77ece30ac35de_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,cdcd4dcdab0e4b2a_0,243
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,d2dc5e5866f88cb9_0,84848
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,d8a0ef8bb5a07028_0,266728
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,d98bd2c1e6671ba3_0,90096
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,dc55fda31751603d_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,ddb22641293063a4_0,84528
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,dee615ceff3723d1_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,dfbd8db5a8c6bcec_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,e0cc1a213d0c7163_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,e2256ce14c7fe788_0,83680
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,e2af430da8c3d3ee_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,e73f93cfca10a531_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,e9ef7b7dbc161688_0,237
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,eeb8374872164c48_0,266728
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,ef5d8c6a5f8f0ae0_0,5284824
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,f04e9884fcb4f65a_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,f4d9dd1b9298b099_0,294
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,f95b3502b91021bd_0,185
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,fa15e624915a7445_0,244
+D:/Games/PlariumPlay\Cache\Code Cache\js,True,index,24
+D:/Games/PlariumPlay\Cache\Code Cache\js,False,index-dir,2088
+D:/Games/PlariumPlay\Cache\Code Cache\js\index-dir,True,the-real-index,2088
+D:/Games/PlariumPlay\Cache\Code Cache\wasm,True,index,24
+D:/Games/PlariumPlay\Cache\Code Cache\wasm,False,index-dir,48
+D:/Games/PlariumPlay\Cache\Code Cache\wasm\index-dir,True,the-real-index,48
+D:/Games/PlariumPlay\Cache\databases,True,Databases.db,28672
+D:/Games/PlariumPlay\Cache\databases,True,Databases.db-journal,0
+D:/Games/PlariumPlay\Cache\IndexedDB,False,https_desktop.plarium.com_0.indexeddb.blob,29533764
+D:/Games/PlariumPlay\Cache\IndexedDB,False,https_desktop.plarium.com_0.indexeddb.leveldb,112704
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob,False,1,29533764
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1,False,00,29533764
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,10,846169
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,11,842831
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,12,844248
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,13,843790
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,14,844624
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,15,844624
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,16,842767
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,17,597525
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,18,597923
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,19,777258
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,1a,663096
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,1b,841208
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,1c,841742
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,1d,841122
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,1e,841972
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,1f,841780
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,20,841438
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,21,843011
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,22,843087
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,23,842799
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,24,843301
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,25,843227
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,26,852445
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,27,846477
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,4,842888
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,49,888536
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,4a,702519
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,7,843468
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,8,846608
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,9,842994
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,a,843180
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,b,842798
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,c,842885
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,d,843304
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,e,843222
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.blob\1\00,True,f,842898
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.leveldb,True,000003.log,112001
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.leveldb,True,CURRENT,16
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.leveldb,True,LOCK,0
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.leveldb,True,LOG,332
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.leveldb,True,LOG.old,332
+D:/Games/PlariumPlay\Cache\IndexedDB\https_desktop.plarium.com_0.indexeddb.leveldb,True,MANIFEST-000001,23
+D:/Games/PlariumPlay\Cache\Local Storage,False,leveldb,29475
+D:/Games/PlariumPlay\Cache\Local Storage\leveldb,True,000003.log,28896
+D:/Games/PlariumPlay\Cache\Local Storage\leveldb,True,CURRENT,16
+D:/Games/PlariumPlay\Cache\Local Storage\leveldb,True,LOCK,0
+D:/Games/PlariumPlay\Cache\Local Storage\leveldb,True,LOG,261
+D:/Games/PlariumPlay\Cache\Local Storage\leveldb,True,LOG.old,261
+D:/Games/PlariumPlay\Cache\Local Storage\leveldb,True,MANIFEST-000001,41
+D:/Games/PlariumPlay\Cache\Service Worker,False,CacheStorage,19763387
+D:/Games/PlariumPlay\Cache\Service Worker,False,Database,10241
+D:/Games/PlariumPlay\Cache\Service Worker,False,ScriptCache,81628
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage,False,81817aeedfb3b051b24c2a83e25a626ddee472c9,19763387
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9,True,index.txt,275
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9,False,5264ff8a-5804-4a23-b5c6-72ce02733724,6359793
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9,False,615edcb9-da20-4200-b73c-6599bebd53bd,841550
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9,False,8d0a4558-553f-4f2e-8a1b-5bf22168076c,12561769
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,0080e7fb1b951277_0,314686
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,01cbe5a508cfd22d_0,314399
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,0d158ebe29979a8f_0,314769
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,0f93664f9a0da58c_0,482653
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,171c463c71a51cb9_0,1054
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,286761cfa3de49b0_0,314750
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,2940195bd9870d6e_0,51211
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,2940195bd9870d6e_1,84773
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,3e00db57816831ff_0,309061
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,3ef6d543aeadc0e0_0,1054
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,42db4c2675566264_0,314686
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,4c03442b60126d10_0,309291
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,4cde349f4561c585_0,314086
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,544abae0b2b2b0fb_0,309061
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,5756570bea4bdf4a_0,309073
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,57ca53ac1efb7e75_0,134004
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,5810fa857d7195f9_0,314342
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,5810fa857d7195f9_1,238487
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,65dbdf3e8375c2f0_0,314820
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,6ebb30277b6c5429_0,4508
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,6ebb30277b6c5429_1,3785
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,74ddbde2f9475453_0,117492
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,7ae9a89a60ad946f_0,219821
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,7fc344a302fec216_0,139123
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,9bedae077fa7c5bc_0,314685
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,b5d82d340ebe7c20_0,164512
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,b623fd0bcd56331e_0,19016
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,c6bb42f30fa275b0_0,314418
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,d3614d51f89a1012_0,1054
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,e5f0e992906d1b43_0,314399
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,True,index,24
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724,False,index-dir,696
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\5264ff8a-5804-4a23-b5c6-72ce02733724\index-dir,True,the-real-index,696
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\615edcb9-da20-4200-b73c-6599bebd53bd,True,6cfdca495d5041e1_0,841454
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\615edcb9-da20-4200-b73c-6599bebd53bd,True,index,24
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\615edcb9-da20-4200-b73c-6599bebd53bd,False,index-dir,72
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\615edcb9-da20-4200-b73c-6599bebd53bd\index-dir,True,the-real-index,72
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,062df150c3fd4c49_0,327226
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,0fae675a256f8ca9_0,54600
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,12175a432ea6159c_0,1595
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,13df659194d170b9_0,26146
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,145245f615c225aa_0,88799
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,1a149e8b6c2e4764_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,1f9cb4f8652c8777_0,229739
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,273a9c58e52ea1e6_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,2c407460e7fd7e50_0,52282
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,33347f03c2fe0b05_0,50739
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,33e1032946e615ba_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,3dace75271984550_0,24076
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,44e5446081b07893_0,9835483
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,4ca41fd0b3b3d254_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,4e879156520ecc90_0,90866
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,609043ed39debc43_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,619d505d74dc7a26_0,1649
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,65c399cdd223f105_0,69632
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,6a7bbcfd6612f7f4_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,84828d0e3bb45e99_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,8add3dfa70459fba_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,908f7f21422bfd07_0,101238
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,960f15f1c44f2a96_0,1651
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,9a99fd5f3806863b_0,172747
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,9b132cf27858f139_0,482668
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,9f8b8fe1bc55a097_0,139136
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,a3c758f5e19dcb11_0,1657
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,aa1a518c8db2f12d_0,47385
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,aa8a5266468f5f98_0,109282
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,b03dc1fc57945683_0,142542
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,b15ddd72f2d2f5a8_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,b72a244a3eb7c584_0,104864
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,bb3824cba88fc2fb_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,bb5dec1d9f6138c9_0,1653
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,bdcb3b0031bbbc3e_0,84286
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,c08545f01719eef9_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,c1403747f28c1331_0,138925
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,c680ec5536fd3520_0,40995
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,cd7b8b0b69c8b522_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,e47f766e9d761251_0,117337
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,ec334fa78830bbe7_0,1655
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,True,index,24
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c,False,index-dir,1032
+D:/Games/PlariumPlay\Cache\Service Worker\CacheStorage\81817aeedfb3b051b24c2a83e25a626ddee472c9\8d0a4558-553f-4f2e-8a1b-5bf22168076c\index-dir,True,the-real-index,1032
+D:/Games/PlariumPlay\Cache\Service Worker\Database,True,000003.log,9648
+D:/Games/PlariumPlay\Cache\Service Worker\Database,True,CURRENT,16
+D:/Games/PlariumPlay\Cache\Service Worker\Database,True,LOCK,0
+D:/Games/PlariumPlay\Cache\Service Worker\Database,True,LOG,268
+D:/Games/PlariumPlay\Cache\Service Worker\Database,True,LOG.old,268
+D:/Games/PlariumPlay\Cache\Service Worker\Database,True,MANIFEST-000001,41
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,2cc80dabc69f58b6_0,7667
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,2cc80dabc69f58b6_1,3105
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,4cb013792b196a35_0,2568
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,4cb013792b196a35_1,3545
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,67a473248953641b_0,8097
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,67a473248953641b_1,22369
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,ba23d8ecda68de77_0,4211
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,ba23d8ecda68de77_1,12393
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,f1cdccba37924bda_0,4588
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,f1cdccba37924bda_1,11177
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,fa813c9ad67834ac_0,1692
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,True,index,24
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache,False,index-dir,192
+D:/Games/PlariumPlay\Cache\Service Worker\ScriptCache\index-dir,True,the-real-index,192
+D:/Games/PlariumPlay\Cache\Session Storage,True,000003.log,3048
+D:/Games/PlariumPlay\Cache\Session Storage,True,CURRENT,16
+D:/Games/PlariumPlay\Cache\Session Storage,True,LOCK,0
+D:/Games/PlariumPlay\Cache\Session Storage,True,LOG,249
+D:/Games/PlariumPlay\Cache\Session Storage,True,LOG.old,252
+D:/Games/PlariumPlay\Cache\Session Storage,True,MANIFEST-000001,41
+D:/Games/PlariumPlay\Cache\shared_proto_db,True,LOCK,0
+D:/Games/PlariumPlay\Cache\shared_proto_db,True,LOG,0
+D:/Games/PlariumPlay\Cache\shared_proto_db,False,metadata,203
+D:/Games/PlariumPlay\Cache\shared_proto_db\metadata,True,000003.log,32
+D:/Games/PlariumPlay\Cache\shared_proto_db\metadata,True,CURRENT,16
+D:/Games/PlariumPlay\Cache\shared_proto_db\metadata,True,LOCK,0
+D:/Games/PlariumPlay\Cache\shared_proto_db\metadata,True,LOG,114
+D:/Games/PlariumPlay\Cache\shared_proto_db\metadata,True,MANIFEST-000001,41
+D:/Games/PlariumPlay\Cache\VideoDecodeStats,True,000003.log,53
+D:/Games/PlariumPlay\Cache\VideoDecodeStats,True,CURRENT,16
+D:/Games/PlariumPlay\Cache\VideoDecodeStats,True,LOCK,0
+D:/Games/PlariumPlay\Cache\VideoDecodeStats,True,LOG,106
+D:/Games/PlariumPlay\Cache\VideoDecodeStats,True,MANIFEST-000001,41
+D:/Games/PlariumPlay\Icons,True,sf.ico,21622
+D:/Games/PlariumPlay\Icons,True,vikings_icon_74.ico,22854
+D:/Games/PlariumPlay\StandAloneApps,False,application,1801066
+D:/Games/PlariumPlay\StandAloneApps,False,flash_wrapper,138855564
+D:/Games/PlariumPlay\StandAloneApps,False,vikings,201431209
+D:/Games/PlariumPlay\StandAloneApps\application,False,8.1.0,1801066
+D:/Games/PlariumPlay\StandAloneApps\application\8.1.0,True,PlariumPlay.log,110194
+D:/Games/PlariumPlay\StandAloneApps\application\8.1.0,True,PlariumPlaySetup.exe,1690872
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper,False,2,138855564
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,cef.pak,4209654
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,cef_100_percent.pak,588801
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,cef_200_percent.pak,681853
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,cef_extensions.pak,3332471
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,chrome_elf.dll,439928
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,d3dcompiler_43.dll,2106216
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,d3dcompiler_47.dll,3747512
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,debug.log,19458
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,devtools_resources.pak,5417528
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,flash_wrapper.exe,448632
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,icudtl.dat,10196592
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,libcef.dll,70249080
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,libEGL.dll,88696
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,libGLESv2.dll,3184760
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,natives_blob.bin,218275
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,True,snapshot_blob.bin,1198536
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,False,flash,16331552
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,False,locales,14257668
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2,False,swiftshader,2138352
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\flash,True,HCSFP32.dll,16331552
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,am.pak,300897
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,ar.pak,293894
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,bg.pak,344085
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,bn.pak,449725
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,ca.pak,213609
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,cs.pak,216862
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,da.pak,195220
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,de.pak,212831
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,el.pak,378604
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,en-GB.pak,176279
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,en-US.pak,177184
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,es-419.pak,210910
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,es.pak,214671
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,et.pak,190872
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,fa.pak,302410
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,fi.pak,197778
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,fil.pak,218121
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,fr.pak,229170
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,gu.pak,426537
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,he.pak,250912
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,hi.pak,433787
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,hr.pak,204365
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,hu.pak,224503
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,id.pak,189462
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,it.pak,207167
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,ja.pak,255681
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,kn.pak,493042
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,ko.pak,215911
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,lt.pak,219073
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,lv.pak,219143
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,ml.pak,536880
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,mr.pak,429418
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,ms.pak,196251
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,nb.pak,192639
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,nl.pak,202232
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,pl.pak,212366
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,pt-BR.pak,208026
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,pt-PT.pak,212313
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,ro.pak,215726
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,ru.pak,325887
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,sk.pak,221971
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,sl.pak,204012
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,sr.pak,321226
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,sv.pak,193612
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,sw.pak,197458
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,ta.pak,500146
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,te.pak,474670
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,th.pak,407993
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,tr.pak,209249
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,uk.pak,336199
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,vi.pak,239040
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,zh-CN.pak,178545
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\locales,True,zh-TW.pak,179104
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\swiftshader,True,libEGL.dll,116344
+D:/Games/PlariumPlay\StandAloneApps\flash_wrapper\2\swiftshader,True,libGLESv2.dll,2022008
+D:/Games/PlariumPlay\StandAloneApps\vikings,False,278,201431209
+D:/Games/PlariumPlay\StandAloneApps\vikings,False,resources,0
+D:/Games/PlariumPlay\StandAloneApps\vikings\278,True,log.txt,253935
+D:/Games/PlariumPlay\StandAloneApps\vikings\278,True,settings.json,72
+D:/Games/PlariumPlay\StandAloneApps\vikings\278,True,UnityCrashHandler64.exe,1096280
+D:/Games/PlariumPlay\StandAloneApps\vikings\278,True,UnityPlayer.dll,26096728
+D:/Games/PlariumPlay\StandAloneApps\vikings\278,True,Vikings.exe,654072
+D:/Games/PlariumPlay\StandAloneApps\vikings\278,False,MonoBleedingEdge,6435176
+D:/Games/PlariumPlay\StandAloneApps\vikings\278,False,Vikings_Data,166894946
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge,False,EmbedRuntime,5753432
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge,False,etc,681744
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\EmbedRuntime,True,mono-2.0-bdwgc.dll,4973144
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\EmbedRuntime,True,MonoPosixHelper.dll,780288
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc,False,mono,681744
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono,True,browscap.ini,311984
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono,True,config,3276
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono,False,2.0,105604
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono,False,4.0,117298
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono,False,4.5,117765
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono,False,mconfig,25817
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\2.0,True,DefaultWsdlHelpGenerator.aspx,60575
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\2.0,True,machine.config,29116
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\2.0,True,settings.map,2622
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\2.0,True,web.config,11686
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\2.0,False,Browsers,1605
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\2.0\Browsers,True,Compat.browser,1605
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.0,True,DefaultWsdlHelpGenerator.aspx,60575
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.0,True,machine.config,33648
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.0,True,settings.map,2622
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.0,True,web.config,18848
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.0,False,Browsers,1605
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.0\Browsers,True,Compat.browser,1605
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.5,True,DefaultWsdlHelpGenerator.aspx,60575
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.5,True,machine.config,34106
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.5,True,settings.map,2622
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.5,True,web.config,18857
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.5,False,Browsers,1605
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\4.5\Browsers,True,Compat.browser,1605
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\MonoBleedingEdge\etc\mono\mconfig,True,config.xml,25817
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,app.info,15
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,boot.config,62
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,globalgamemanagers,7496356
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,globalgamemanagers.assets,672760
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,level0,331444
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,level1,13752
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,resources.assets,32209288
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,resources.assets.resS,28174700
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,sharedassets0.assets,13528668
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,sharedassets0.assets.resS,47465372
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,True,sharedassets1.assets,58673
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,False,Managed,28425096
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,False,Plugins,4192448
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data,False,Resources,4326312
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Antlr3.Runtime.dll,90112
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Assembly-CSharp-firstpass.dll,100352
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Assembly-CSharp.dll,7762944
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Avro.dll,163840
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,BugsnagUnity.Windows.dll,85504
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Bundles.dll,4608
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,ClientAnalytics.dll,18944
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,ClientAnalyticsBase.dll,5632
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,CoroutinesHelper.dll,16896
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Dictionary.dll,297984
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Facebook.Unity.dll,126976
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Facebook.Unity.Gameroom.dll,6656
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Facebook.Unity.Settings.dll,8704
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,FacebookNamedPipeClient.dll,25600
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Ionic.Zlib.dll,80384
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,LibFBGManaged.dll,21504
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Logger.dll,4608
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Mono.Security.dll,310272
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,mscorlib.dll,3906048
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,netstandard.dll,84992
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Newtonsoft.Json.dll,683008
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,NGUI.dll,384512
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Plarium.Vikings.Server.API.dll,163840
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,PlariumPlay.dll,32256
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Serialization.dll,12800
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,SimpleJson.dll,20480
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.CodeDom.dll,183176
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.ComponentModel.Composition.dll,247808
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Configuration.dll,43008
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Core.dll,1057792
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Data.dll,1941504
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Diagnostics.StackTrace.dll,6656
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.dll,2141696
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Drawing.dll,184320
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.EnterpriseServices.dll,33280
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Globalization.Extensions.dll,6144
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.IO.Compression.dll,98816
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.IO.Compression.FileSystem.dll,23040
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Net.Http.dll,114688
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Numerics.dll,114176
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Numerics.Vectors.dll,102912
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Runtime.Serialization.dll,840704
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Runtime.Serialization.Xml.dll,7168
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.ServiceModel.Internals.dll,218112
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Transactions.dll,33280
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Xml.dll,2414592
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Xml.Linq.dll,119296
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,System.Xml.XPath.XDocument.dll,5120
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Thread.dll,7680
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.AccessibilityModule.dll,12288
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.AIModule.dll,44544
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.AndroidJNIModule.dll,64512
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.AnimationModule.dll,145920
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.ARModule.dll,12800
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.AssetBundleModule.dll,21504
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.AudioModule.dll,57856
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.ClothModule.dll,15360
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.ClusterInputModule.dll,10240
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.ClusterRendererModule.dll,9216
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.CoreModule.dll,1012736
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.CrashReportingModule.dll,9728
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.DirectorModule.dll,13312
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.dll,86016
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.DSPGraphModule.dll,17920
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.GameCenterModule.dll,27136
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.GridModule.dll,13824
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.HotReloadModule.dll,8704
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.ImageConversionModule.dll,13312
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.IMGUIModule.dll,156160
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.InputLegacyModule.dll,25600
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.InputModule.dll,12288
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.JSONSerializeModule.dll,10752
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.LocalizationModule.dll,9728
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.ParticleSystemModule.dll,135168
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.PerformanceReportingModule.dll,9216
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.Physics2DModule.dll,105984
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.PhysicsModule.dll,87040
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.ProfilerModule.dll,8704
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.ScreenCaptureModule.dll,9728
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.SharedInternalsModule.dll,19456
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.SpriteMaskModule.dll,10240
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.SpriteShapeModule.dll,14336
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.StreamingModule.dll,9728
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.SubstanceModule.dll,13824
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.SubsystemsModule.dll,16896
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.TerrainModule.dll,80896
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.TerrainPhysicsModule.dll,9728
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.TextCoreModule.dll,186368
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.TextRenderingModule.dll,27648
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.TilemapModule.dll,25088
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.TLSModule.dll,8704
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UI.dll,226304
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UIElementsModule.dll,729600
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UIModule.dll,23552
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UmbraModule.dll,8704
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UNETModule.dll,77312
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UnityAnalyticsModule.dll,32768
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UnityConnectModule.dll,10752
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UnityTestProtocolModule.dll,8704
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UnityWebRequestAssetBundleModule.dll,11776
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UnityWebRequestAudioModule.dll,11264
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UnityWebRequestModule.dll,43520
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UnityWebRequestTextureModule.dll,10752
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.UnityWebRequestWWWModule.dll,20480
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.VehiclesModule.dll,12800
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.VFXModule.dll,38912
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.VideoModule.dll,29184
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.VRModule.dll,34816
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.WindModule.dll,9728
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,UnityEngine.XRModule.dll,54272
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,Utils.dll,8192
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,VikingsEvents.dll,57856
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Managed,True,WebGLHelper.dll,9216
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins,False,x86_64,4192448
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,concrt140.dll,317224
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,cpprest_2_10.dll,954368
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,LibFBGPlatform.dll,924160
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,LibFBGUI.dll,439296
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,msvcp140.dll,590632
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,msvcp140_1.dll,31528
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,msvcp140_2.dll,193832
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,msvcp140_codecvt_ids.dll,27936
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,tinyxml2.dll,93184
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,vccorlib140.dll,337696
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,vcruntime140.dll,101672
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,vcruntime140_1.dll,44328
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Plugins\x86_64,True,WebView2Loader.dll,136592
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Resources,True,unity default resources,3837044
+D:/Games/PlariumPlay\StandAloneApps\vikings\278\Vikings_Data\Resources,True,unity_builtin_extra,489268
